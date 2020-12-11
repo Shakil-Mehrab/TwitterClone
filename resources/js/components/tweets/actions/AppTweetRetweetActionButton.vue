@@ -36,7 +36,7 @@
 
     computed: {
       ...mapGetters({
-        retweets: 'retweets/retweets'//eta only color change korar jonto nicher retweet function help korche
+        retweets: 'retweets/retweets'//eta only color change korar jonno nicher retweet function help korche
       }),
 
       retweeted () {
